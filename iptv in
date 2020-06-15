@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,Raj TV
+http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
+#EXTINF:-1,Kalaignar TV
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/stream(1)/index.m3u8
+#EXTINF:-1,Kalaignar TV
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/stream(2)/index.m3u8
+#EXTINF:-1,B4U Music
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(02)/index.m3u8
+#EXTINF:-  24 News Malayalam  iptv playlist / link
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+#EXTINF:-1,DD Malayalam
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/stream(1)/index.m3u8
+#EXTINF:-1,DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/stream(1)/index.m3u8
+#EXTINF:-1,DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/stream(2)/index.m3u8
+#EXTINF:-1,Kairali News
+http://103.199.161.254/Content/people/Live/Channel(People)/stream(1)/index.m3u8
+#EXTINF:-1,Kairali TV
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/stream(1)/index.m3u8
+#EXTINF:-1,Kairali We
+http://103.199.161.254/Content/we/Live/Channel(We)/stream(2)/index.m3u8
+#EXTINF:-1,Amrita TV
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/stream(1)/index.m3u8
+#EXTINF:-1,Flowers TV
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/stream(1)/index.m3u8
+#EXTINF:-1,Jaihind TV
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/stream(1)/index.m3u8
+#EXTINF:-1,Jeevan TV
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/stream(1)/index.m3u8
+#EXTINF:0, group-title="Assamese",Garshom News
+http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1,Kasthuri TV
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/stream(1)/index.m3u8
+#EXTINF:-1,Keral Vision ST
+http://103.199.161.254/Content/keralvisionst/Live/Channel(KeralvisionST)/stream(1)/index.m3u8
+#EXTINF:-1,Mazhavil Manorama HD
+http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/stream(1)/index.m3u8
+#EXTINF:-1,Mazhavil Manorama HD
+http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/stream(2)/index.m3u8
+#EXTINF:-1,7S Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/stream(1)/index.m3u8
+#EXTINF:-  ACV iptv playlist / link (Opt-1) 
+https://acv.asianetmobiletvplus.com/channels/8f8e72769cb3e3a6e27c220e1e3887b8.smil/index.m3u8
+#EXTINF:"Malayalam",Mathrubhumi News
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226314/index.m3u8
+#EXTINF:"Malayalam",Media One
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226368/index.m3u8
