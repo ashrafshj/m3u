@@ -1,12 +1,11 @@
-#EXTINF:-1, KITE-VICTERS 
-https://live.wmncdn.net/victers/live.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Raj TV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 #EXTINF:-1,Kalaignar TV
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/stream(1)/index.m3u8
 #EXTINF:-1,B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(02)/index.m3u8
-#EXTINF:-  24 News Malayalam  iptv playlist / link
+#EXTINF:-1, 24 News Malayalam 
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 #EXTINF:-1,DD Malayalam
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/stream(1)/index.m3u8
@@ -36,7 +35,7 @@ http://103.199.161.254/Content/keralvisionst/Live/Channel(KeralvisionST)/stream(
 http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/stream(1)/index.m3u8
 #EXTINF:-1,7S Music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/stream(1)/index.m3u8
-#EXTINF:-  KTV HD
+#EXTINF:-1, KTV HD
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunklist_w798628189_b232000.m3u8
 #EXTINF:-1, Asianet News 
 http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
@@ -55,16 +54,10 @@ http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1,ACV 
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
 #EXTINF:-1, ACV Jukebox
-https://acv.asianetmobiletvplus.com/channels/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/index.m3u8
-#EXTINF:-1, ACV Jukebox
 https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8
 #EXTINF:-1, ACV News 
 https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
 #EXTINF:- 1, ACV Utsav 
 https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
-#EXTINF:-1, ACV Utsav
-https://acv.asianetmobiletvplus.com/channels/021c9292219a98f899a7b74f0f34baa7.smil/index.m3u8
-#EXTINF:-1, ACV Utsav Plus 
-https://acv.asianetmobiletvplus.com/channels/7eb4dc1f3240c8eb776d41b95bd1d197.smil/index.m3u8
 #EXTINF:-1, ACV Utsav Plus
 https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
