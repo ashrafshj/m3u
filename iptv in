@@ -1,9 +1,9 @@
+#EXTINF:-1, KITE-VICTERS 
+https://live.wmncdn.net/victers/live.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Raj TV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 #EXTINF:-1,Kalaignar TV
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/stream(1)/index.m3u8
-#EXTINF:-1,Kalaignar TV
-http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/stream(2)/index.m3u8
 #EXTINF:-1,B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(02)/index.m3u8
 #EXTINF:-  24 News Malayalam  iptv playlist / link
@@ -12,8 +12,6 @@ http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/stream(1)/index.m3u8
 #EXTINF:-1,DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/stream(1)/index.m3u8
-#EXTINF:-1,DD National
-http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/stream(2)/index.m3u8
 #EXTINF:-1,Kairali News
 http://103.199.161.254/Content/people/Live/Channel(People)/stream(1)/index.m3u8
 #EXTINF:-1,Kairali TV
@@ -28,21 +26,45 @@ http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/stream(1)/index.m3u
 http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/stream(1)/index.m3u8
 #EXTINF:-1,Jeevan TV
 http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/stream(1)/index.m3u8
-#EXTINF:0, group-title="Assamese",Garshom News
+#EXTINF:1,Garshom News
 http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1,Kasthuri TV
-http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/stream(1)/index.m3u8
+#EXTINF:-1, Magna Vision 
+http://livestream.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4.m3u8
 #EXTINF:-1,Keral Vision ST
 http://103.199.161.254/Content/keralvisionst/Live/Channel(KeralvisionST)/stream(1)/index.m3u8
 #EXTINF:-1,Mazhavil Manorama HD
 http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/stream(1)/index.m3u8
-#EXTINF:-1,Mazhavil Manorama HD
-http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/stream(2)/index.m3u8
 #EXTINF:-1,7S Music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/stream(1)/index.m3u8
-#EXTINF:-  ACV iptv playlist / link (Opt-1) 
-https://acv.asianetmobiletvplus.com/channels/8f8e72769cb3e3a6e27c220e1e3887b8.smil/index.m3u8
-#EXTINF:"Malayalam",Mathrubhumi News
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226314/index.m3u8
-#EXTINF:"Malayalam",Media One
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226368/index.m3u8
+#EXTINF:-  KTV HD
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunklist_w798628189_b232000.m3u8
+#EXTINF:-1, Asianet News 
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+#EXTINF:-1, Mangalam TV 
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+#EXTINF:-1, Manorama News 
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1, Mathrubhumi News  
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+#EXTINF:-1, Reporter TV  
+http://livecdnh1.tvanywhere.ae:80/hls/reporter/04.m3u8
+#EXTINF:-1, Kaumudy TV 
+http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1,Kappa TV 
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1,ACV 
+https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+#EXTINF:-1, ACV Jukebox
+https://acv.asianetmobiletvplus.com/channels/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/index.m3u8
+#EXTINF:-1, ACV Jukebox
+https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8
+#EXTINF:-1, ACV News 
+https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
+#EXTINF:- 1, ACV Utsav 
+https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
+#EXTINF:-1, ACV Utsav
+https://acv.asianetmobiletvplus.com/channels/021c9292219a98f899a7b74f0f34baa7.smil/index.m3u8
+#EXTINF:-1, ACV Utsav Plus 
+https://acv.asianetmobiletvplus.com/channels/7eb4dc1f3240c8eb776d41b95bd1d197.smil/index.m3u8
+#EXTINF:-1, ACV Utsav Plus
+https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
