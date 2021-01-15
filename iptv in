@@ -45,11 +45,11 @@ http://rv.imax.re:80/live/307221124532/307221124532/83876.m3u8
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Sun TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png",Sun TV HD
 http://rv.imax.re:80/live/307221124532/307221124532/83947.m3u8
 #EXTINF:-1 tvg-id="starvijay.in" tvg-name="Star Vijay HD" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png",Star Vijay HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5545
+http://rv.imax.re:80/live/307221124532/307221124532/83951.m3u8
 #EXTINF:-1 tvg-id="ktv.in" tvg-name="KTV HD" tvg-logo="https://watchindia.net/images/channels/tamil/KTV_HD.png",KTV HD
 http://rv.imax.re:80/live/307221124532/307221124532/83959.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/VgC9dPgUeUmzCD1F8amDyMxYcIyEjaTKStULFlwY5wiidPb_wDCt95x_maC_E5t5lNoP",Sony Max HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3990
+http://rv.imax.re:80/live/307221124532/307221124532/83705.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png",& Pictures
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/BEwp4Mj/", &flix HD
@@ -63,11 +63,11 @@ https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/F2NjQ17/",National Geographic
 http://rv.imax.re:80/live/307221124532/307221124532/83956.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
-https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
+http://rv.imax.re:80/live/307221124532/307221124532/80022.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg",NAT GEO Wild HD
-http://rv.therevenge.co:80/live/307221124532/307221124532/83957.m3u8
+http://rv.imax.re:80/live/307221124532/307221124532/83957.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
-http://rv.imax.re:80/live/307221124532/307221124532/83952.m3u8
+http://rv.imax.re:80/live/307221124532/307221124532/83702.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg",Travel XP HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.m3u8
 #EXTINF:-1 tvg-id="asianet.news.in" tvg-name="Asianet News 1" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_News.png" group-title="NEWS",Asianet News
@@ -104,18 +104,18 @@ https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist_w5730415
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="KIDS",Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1 
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3979
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/380056.ts
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_2_HD.png" group-title="SPORTS",Star Sports 2
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/397844
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/379960.ts
 #EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 2
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/397844
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3972
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/379931.ts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5589
+http://mytv.fun:8080/bastian321/qg9iiqbtv/5589
 #EXTINF:-1 tvg-logo="https://imgur.com/download/NPnWxMP/" group-title="SPORTS",Sony Ten 3
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5590
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5548
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/379954.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="RELIGION",Quran TV	
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
