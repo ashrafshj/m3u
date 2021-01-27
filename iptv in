@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-id="asianethd.in" tvg-name="Asianet HD" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_HD.png"",Asianet HD
 http://telegram.teknoyardim.ml:80/live/AO0RKgAr3S/XEJ7yJaA2a/83893.m3u8
 #EXTINF:-1 tvg-id="mazhavil.manorama.in" tvg-logo="https://watchindia.net/images/channels/malayalam/Mazhavil_Manorama_HD.png",Mazhavil Manorama HD
-http://pn.tvott.info:80/477851510102443/477851510102443/83889
+http://pn.tvott.info:80/live/477851510102443/477851510102443/83889.m3u8
 #EXTINF:-1 tvg-id="suryahd.in" tvg-name="Surya TV HD" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_HD.png",Surya TV HD
 http://rv.imax.re:80/live/AO0RKgAr3S/XEJ7yJaA2a/83883.m3u8
 #EXTINF:-1 tvg-id="zeekeralamhd.in" tvg-name="Zee Keralam" tvg-logo="https://watchindia.net/images/channels/malayalam/Zee_Keralam_HD.png",Zee Keralam HD
