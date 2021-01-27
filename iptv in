@@ -9,7 +9,7 @@ https://y5w8j4a9.ssl.hwcdn.net/livingfoodzhd/tracks-v4a1/index.m3u8
 #EXTINF:-1 tvg-id="amrita.in" tvg-name="Amrita" tvg-logo="https://watchindia.net/images/channels/malayalam/Amrita.png",Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/03.m3u8
 #EXTINF:-1 tvg-id="flowers.in" tvg-name="Flowers TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Flowers.png",Flowers
-http://rv.imax.re:80/live/307221124532/307221124532/83892.m3u8
+http://185.71.64.167:80/live/307221124532/307221124532/83892.m3u8
 #EXTINF:-1 tvg-id="kairali.in" tvg-name="Kairali TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Kairali_TV.png",Kairali TV
 http://rv.imax.re:80/live/307221124532/307221124532/83891.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali Arabia
@@ -45,7 +45,7 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/safari/live3/chun
 #EXTINF:-1 tvg-id="dd.malayalam.in" tvg-name="DD Malayalam" tvg-logo="https://watchindia.net/images/channels/malayalam/DD_Malayalam.png",DD Malayalam
 http://rv.imax.re:80/live/307221124532/307221124532/83876.m3u8
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Sun TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png",Sun TV HD
-http://rv.imax.re:80/live/307221124532/307221124532/83947.m3u8
+http://185.71.64.167:80/live/307221124532/307221124532/83947.m3u8
 #EXTINF:-1 tvg-id="starvijay.in" tvg-name="Star Vijay HD" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png",Star Vijay HD
 http://rv.imax.re:80/live/307221124532/307221124532/83951.m3u8
 #EXTINF:-1 tvg-id="ktv.in" tvg-name="KTV HD" tvg-logo="https://watchindia.net/images/channels/tamil/KTV_HD.png",KTV HD
