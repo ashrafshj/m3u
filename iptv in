@@ -17,19 +17,19 @@ https://itvorigin.multitvsolution.com/idvo/kairaliarabia_360p/index.m3u8
 #EXTINF:-1 tvg-id="kairali.we.in" tvg-name="Kairali We" tvg-logo="https://watchindia.net/images/channels/malayalam/WE_TV.png",Kairali We 
 http://rv.imax.re:80/live/307221124532/307221124532/83882.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eXLxXbh/",Middle East
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/24767.m3u8
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17499.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama 
-http://89.187.169.202:2200/R-EX/MALAYALAM_MAZAVIL_MANORAMA_HD-in/tracks-v1a1/mono.m3u8?token=
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17460.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg",Surya TV
-http://195.181.172.83:2200/R-EX/MALAYALAM_SURYA_HD-in/mono.m3u8?token=
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17314.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
 https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w79406521.m3u8
 #EXTINF:-1 tvg-id="jaihind.in" tvg-name="Jaihind" tvg-logo="https://watchindia.net/images/channels/malayalam/Jaihind.png",Jaihind TV
-http://rv.imax.re:80/live/307221124532/307221124532/83875.m3u8
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17496.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
 http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="jeevan.in" tvg-name="Jeevan TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Jeevan_TV.png",Jeevan TV 
-http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/6937
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17495.m3u8
 #EXTINF:-1 tvg-id="surya.movies.in" tvg-name="Surya Movies" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_Movies.png",Surya Movies
 http://rv.imax.re:80/live/307221124532/307221124532/83884.m3u8
 #EXTINF:-1 tvg-id="asianet.movies.in" tvg-name="Asianet Movies" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_Movies.png",Asianet Movies
@@ -55,11 +55,11 @@ http://rv.imax.re:80/live/307221124532/307221124532/83705.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png",& Pictures
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v4a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/BEwp4Mj/", &flix HD
-http://z5amshls.akamaized.net/andflixhd/tracks-v4a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png",Star Movies  HD 
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/21623
+http://185.71.64.167:80/live/1569802583/8829358497/83613.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png",Movies Now HD 
+http://185.71.64.167:80/live/1569802583/8829358497/83604.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/",Sony Pix HD
-http://rv.imax.re:80/live/307221124532/307221124532/83703.m3u8
+http://185.71.64.167:80/live/307221124532/307221124532/83703.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg",Discovery HD
 https://itvorigin.multitvsolution.com/idvo/discoveryhindi_360p/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/F2NjQ17/",National Geographic
@@ -77,7 +77,7 @@ https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3
 #EXTINF:-1 tvg-id="mediaone.in" tvg-name="Media One" tvg-logo="https://watchindia.net/images/channels/malayalam/Media_One.png" group-title="NEWS",Media One
 https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="news24.in" tvg-name="24 News 1" tvg-logo="https://watchindia.net/images/channels/malayalam/24_News.png" group-title="NEWS",24 News
-http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17493.m3u8
 #EXTINF:-1 tvg-name="Manorama News" tvg-logo="https://watchindia.net/images/channels/malayalam/Manorama_News.png" group-title="NEWS",Manorama News
 http://185.71.64.167:80/live/AO0RKgAr3S/XEJ7yJaA2a/83880.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/qFTb3WB/" group-title="NEWS",News 18
@@ -89,7 +89,7 @@ https://bcovlive-a.akamaihd.net/5ec61af321c9463ea0e4d2e05462df66/ap-south-1/5742
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/malayalam/Reporter_TV.png" group-title="NEWS",Reporter TV
 http://livecdnh1.tvanywhere.ae:80/hls/reporter/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0OxL0P.png" group-title="NEWS",Mangalam TV 
-http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17457.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/EXavUTu/" group-title="NEWS",Bharat Keralam
 https://etvbharatlive7.akamaized.net/hls/live/710673/kerala/index_540p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS",BBC News
@@ -100,7 +100,7 @@ https://itvorigin.multitvsolution.com/idvo/discoverykidseng_360p/index.m3u8
 #EXTINF:-1 tvg-id="kochu.in" tvg-name="Kochu TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Kochu_TV.png" group-title="KIDS",Kochu TV
 http://rv.imax.re:80/live/307221124532/307221124532/83890.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
-http://exchange.jinbox.nl:1339/live/sbtvip/jBRR5bmk/46347.m3u8
+http://185.71.64.167:80/live/AO0RKgAr3S/XEJ7yJaA2a/82103.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rvpMAcx/" group-title="KIDS",Cartoon Network 
 https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist_w573041592_b1548000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="KIDS",Akaram Kidz
@@ -109,21 +109,21 @@ http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LpRJF4U/" group-title="MUSIC",Metro TV
 https://j78dp37jyq5r-hls-live.5centscdn.com/metromalayalam/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/D2Ujneo/" group-title="MUSIC",Sun Music HD
-http://rv.imax.re:80/AO0RKgAr3S/XEJ7yJaA2a/83949
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/83949
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1 
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/7892
+http://line.crystalott.net:80/live/IVTK7APG7V/FgPybcSOgypk5Im/2756.ts
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_2_HD.png" group-title="SPORTS",Star Sports 2
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/7893
-#EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 2
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+http://line.crystalott.net:80/live/IVTK7APG7V/FgPybcSOgypk5Im/2754.ts
+#EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 1
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17308.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/14795
+http://line.crystalott.net:80/live/IVTK7APG7V/FgPybcSOgypk5Im/2749.ts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/14798
+http://line.crystalott.net:80/live/IVTK7APG7V/FgPybcSOgypk5Im/2748.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/NPnWxMP/" group-title="SPORTS",Sony Ten 3
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2747
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2758
+http://line.crystalott.net:80/live/IVTK7APG7V/FgPybcSOgypk5Im/2758.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="RELIGION",Quran TV	
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
