@@ -50,12 +50,14 @@ http://185.71.64.167:80/live/307221124532/307221124532/83947.m3u8
 http://rv.imax.re:80/live/307221124532/307221124532/83951.m3u8
 #EXTINF:-1 tvg-id="ktv.in" tvg-name="KTV HD" tvg-logo="https://watchindia.net/images/channels/tamil/KTV_HD.png",KTV HD
 http://rv.imax.re:80/live/307221124532/307221124532/83959.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/download/9NubtyY/",Zee Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/VgC9dPgUeUmzCD1F8amDyMxYcIyEjaTKStULFlwY5wiidPb_wDCt95x_maC_E5t5lNoP",Sony Max HD
 http://rv.imax.re:80/live/307221124532/307221124532/83705.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png",& Pictures
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v4a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/BEwp4Mj/", &flix HD
-http://185.71.64.167:80/live/1569802583/8829358497/83613.ts
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png",Movies Now HD 
 http://185.71.64.167:80/live/1569802583/8829358497/83604.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/",Sony Pix HD
