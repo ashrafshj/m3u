@@ -35,7 +35,7 @@ http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
 #EXTINF:-1 tvg-id="surya.movies.in" tvg-name="Surya Movies" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_Movies.png",Surya Movies
 http://rv.imax.re:80/live/307221124532/307221124532/83884.m3u8
 #EXTINF:-1 tvg-id="asianet.movies.in" tvg-name="Asianet Movies" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_Movies.png",Asianet Movies
-http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=47953&output=m3u8
+http://pn.tvott.info:80/477845056156344/477845056156344/83886
 #EXTINF:-1 tvg-id="asianet.plus.in" tvg-name="Asianet Plus" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_Plus.png",Asianet Plus
 http://rv.imax.re:80/live/307221124532/307221124532/83885.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/",Kite-Victers
@@ -47,7 +47,7 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/safari/live3/chun
 #EXTINF:-1 tvg-id="dd.malayalam.in" tvg-name="DD Malayalam" tvg-logo="https://watchindia.net/images/channels/malayalam/DD_Malayalam.png",DD Malayalam
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Sun TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png",Sun TV HD
-http://185.71.64.167:80/live/307221124532/307221124532/83947.m3u8
+http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=48012&output=m3u8
 #EXTINF:-1 tvg-id="starvijay.in" tvg-name="Star Vijay HD" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png",Star Vijay HD
 http://rv.imax.re:80/live/307221124532/307221124532/83951.m3u8
 #EXTINF:-1 tvg-id="ktv.in" tvg-name="KTV HD" tvg-logo="https://watchindia.net/images/channels/tamil/KTV_HD.png",KTV HD
