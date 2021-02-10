@@ -63,7 +63,7 @@ http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.03165359
 #EXTINF:-1 tvg-logo="https://imgur.com/download/9NubtyY/"group-title="HINDI MOVIES",Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/VgC9dPgUeUmzCD1F8amDyMxYcIyEjaTKStULFlwY5wiidPb_wDCt95x_maC_E5t5lNoP"group-title="HINDI MOVIES",Sony Max HD
-http://mynetworks.info:80/live/ashraf333/333ashraf/6510.m3u8
+http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=18185&output=m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png"group-title="HINDI MOVIES",& Pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HINDI MOVIES", Hindi Cinema 01
@@ -85,12 +85,12 @@ https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 #EXTINF:-1 tvg-name="Manorama News" tvg-logo="https://watchindia.net/images/channels/malayalam/Manorama_News.png" group-title="NEWS",Manorama News
 https://bcovlive-a.akamaihd.net/4850ad1bd94445bfb4fa94732383dead/ap-southeast-1/5574321162001/profile_3/chunklist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZY1kzi9.png" group-title="NEWS",Mathrubhumi News
+https://vidgyormedia.pc.cdn.bitgravity.com/mathrubhumi-origin/liveabr/mathrubhumi-origin/live_240p/chunks_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/qFTb3WB/" group-title="NEWS",News 18
 https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/l6xLEMH/" group-title="NEWS",Real News Kerala
 https://m-c010-j2apps.s.llnwi.net/hls/7082.RealNewskerela.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZY1kzi9.png" group-title="NEWS",Mathrubhumi News
-https://vidgyormedia.pc.cdn.bitgravity.com/mathrubhumi-origin/liveabr/mathrubhumi-origin/live_240p/chunks_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/malayalam/Reporter_TV.png" group-title="NEWS",Reporter TV
 http://livecdnh1.tvanywhere.ae:80/hls/reporter/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0OxL0P.png" group-title="NEWS",Mangalam TV 
@@ -118,11 +118,11 @@ http://pn.tvott.info:80/477845056156344/477845056156344/83949
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png" group-title="SD",Mazhavil Manorama 
-http://clientarea.ltd:2052/live/3030303030/4040404040/44809.m3u8
+http://forever.megogo.xyz/iptv/V9R6P3BL5BBWV9/6654/index.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg"group-title="SD",Surya TV
 http://forever.megogo.xyz/iptv/V9R6P3BL5BBWV9/6655/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eFGSh4p/"group-title="SD",Asianet
-http://clientarea.ltd:2052/live/3030303030/4040404040/36047.m3u8
+http://95.216.199.23:8081/master_leno/Malaasianethd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1 
 http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=48106&output=m3u8
