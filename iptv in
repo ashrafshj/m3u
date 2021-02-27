@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rI7ywyz/",Asianet HD
 http://185.246.210.45:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
-http://rktv-ott.com/live/018742483290/2515922757/34740.ts
+http://rktv-ott.com/live/018742483290/2515922757/34740.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26574/1000x1000_6ed3be47-b8bf-45ee-adf1-fb5ae9621e08.jpg",Surya TV HD
 http://45.153.33.137:2200/R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://imgur.com/download/wHKvVQH/",Zee Keralam HD
@@ -39,7 +39,7 @@ https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ukchGM.png",Kaumudy TV
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w881DVW.png",Safari
-http://rktv-ott.com/live/018742483290/2515922757/34736.ts
+http://rktv-ott.com/live/018742483290/2515922757/34736.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1rlU4J.png",DD Malayalam
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/pFcAsl5/",KCL
