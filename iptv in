@@ -1,9 +1,9 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rI7ywyz/",Asianet HD
-http://185.246.210.45:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=
+http://jxszzo8.vipcrtv.tk/wukong/crtv.php?id=1471
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
 https://bit.ly/3sGGBG5
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26574/1000x1000_6ed3be47-b8bf-45ee-adf1-fb5ae9621e08.jpg",Surya TV HD
-http://bit.ly/04surya
+https://bit.ly/03suryahd
 #EXTINF:-1 tvg-logo="https://imgur.com/download/wHKvVQH/",Zee Keralam HD
 https://y5w8j4a9.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
@@ -29,11 +29,11 @@ http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV
 http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
-http://185.246.210.45:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=
+http://bit.ly/7sumovie
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
-http://185.246.210.49:2200/R-EX/MALAYALAM_ASIANET_MOVIE-in/index.m3u8?token=
+https://bit.ly/5asianetmovie
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
-http://185.246.210.45:2200/R-EX/MALAYALAM_ASIANET_PLUS-in/index.m3u8?token=
+https://bit.ly/5asianetplus
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/",Kite-Victers
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ukchGM.png",Kaumudy TV
@@ -59,7 +59,7 @@ http://185.246.210.45:2200/R-EX/ENGLISH_NATGEO_ENGLISH_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hqqTuq.jpeg",Animal Planet
 http://185.246.210.49:2200/R-EX/ENGLISH_ANIMAL_PLANET_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg",NAT GEO Wild HD
-http://185.246.210.42:2200/R-EX/TAMIL_NAT_GEO_WILD_TAMIL_HD-in/index.m3u8?token=
+http://bit.ly/7wild
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
 http://185.246.210.47:2200/R-EX/ENGLISH_BBC_EARTH_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg",Travel XP HD
@@ -117,15 +117,15 @@ https://j78dp37jyq5r-hls-live.5centscdn.com/metromalayalam/d0dbe915091d400bd8ee7
 http://185.246.210.44:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png" group-title="SD",Mazhavil Manorama 
-http://45.153.33.137:2200/R-EX/MALAYALAM_MAZAVIL_MANORAMA_HD-in/index.m3u8?token=
+https://bit.ly/03mazhavil
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg"group-title="SD",Surya TV
 https://bit.ly/03surya
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eFGSh4p/"group-title="SD",Asianet
-https://bit.ly/03asianethd
+http://bit.ly/7asianetsd
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1 
 http://185.246.210.42:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
-#EXTINF:-1 tvg-logo="https://imgur.com/download/DEZEAPb/" group-title="SPORTS",Star Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ashrafshj/IPTV-2/master/IPTVJson/logo/starsports2.png" group-title="SPORTS",Star Sports 2
 http://185.246.210.46:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 #EXTINF:-1 tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="SPORTS",Star Select 1
 http://185.246.210.44:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
