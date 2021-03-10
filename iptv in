@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rI7ywyz/",Asianet HD
-https://bit.ly/2O7uuTs
+https://bit.ly/3kHxyC2
 #EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/",Mazhavil Manorama HD
-https://bit.ly/3sGGBG5
+https://bit.ly/04mazhavil
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26574/1000x1000_6ed3be47-b8bf-45ee-adf1-fb5ae9621e08.jpg",Surya TV HD
 https://bit.ly/04surya
 #EXTINF:-1 tvg-logo="https://imgur.com/download/wHKvVQH/",Zee Keralam HD
@@ -29,7 +29,7 @@ http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV
 http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
-https://bit.ly/7sumovie
+https://bit.ly/ashru5
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
 https://bit.ly/5asianetmovie
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
@@ -103,16 +103,18 @@ https://itvorigin.multitvsolution.com/idvo/discoverykidseng_360p/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4RLYmkk/" group-title="KIDS",Kochu TV
 https://bit.ly/3e3KGAe
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
-http://bit.ly/04jerry
+https://bit.ly/3bA7vde
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rvpMAcx/" group-title="KIDS",Cartoon Network 
-https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist_w573041592_b1548000_slENG.m3u8
+https://bit.ly/cartoon5
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Mr. Bean 
+http://bit.ly/5gBean
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/musicin.jpg" group-title="MUSIC",Music India 
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6H3iD1.png" group-title="MUSIC",M4 Malayalam
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/D2Ujneo/" group-title="MUSIC",Sun Music HD
-http://forever.megogo.xyz/iptv/V9R6P3BL5BBWV9/6694/index.m3u8
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png" group-title="SD",Mazhavil Manorama 
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6654/index.m3u8
