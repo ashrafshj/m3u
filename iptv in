@@ -33,7 +33,7 @@ https://bit.ly/ashru5
 #EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/",Asianet Movies
 https://bit.ly/5asianetmovie
 #EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/",Asianet Plus
-https://bit.ly/5asianetplus
+http://bit.ly/3freeplus
 #EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/",Kite-Victers
 https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ukchGM.png",Kaumudy TV
@@ -121,7 +121,7 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6654/index.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg"group-title="SD",Surya TV
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6655/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eFGSh4p/"group-title="SD",Asianet
-https://bit.ly/3kHxyC2
+http://bit.ly/freeasianet
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1 
 https://bit.ly/3q3PLe5
@@ -139,7 +139,9 @@ https://bit.ly/2NLZJUm
 https://bit.ly/sonysix
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMYdQAj.png"group-title="SPORTS",beIN Sport 1
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="RELIGION",Quran TV	
+#EXTINF:-1 tvg-logo="https://imgur.com/download/DicUHEn/"group-title="RELIGION",Quran TV	
+http://rv.imax.re:80/2075706948/8418293576/163850
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="RELIGION",Makkah TV	
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
 
 
