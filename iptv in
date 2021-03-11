@@ -106,7 +106,7 @@ https://bit.ly/3e3KGAe
 https://bit.ly/3bA7vde
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rvpMAcx/" group-title="KIDS",Cartoon Network 
 https://bit.ly/cartoon5
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="https://i.imgur.com/twMKgz9.png",Mr. Bean 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/twMKgz9.png"group-title="KIDS",Mr. Bean 
 http://bit.ly/5gBean
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/musicin.jpg" group-title="MUSIC",Music India 
