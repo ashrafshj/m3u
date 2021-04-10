@@ -7,11 +7,11 @@ https://bit.ly/3sbh5cm
 #EXTINF:-1 tvg-logo="https://imgur.com/download/wHKvVQH/",Zee Keralam HD
 https://y5w8j4a9.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png",Amrita TV
-http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/Stream(01)/index.m3u8
+https://dr1zhpsuem5f4.cloudfront.net/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers TV
-http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/Stream(01)/index.m3u8
+https://bit.ly/2PI7R9z
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kairali.jpg",Kairali TV
-http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8
+https://bit.ly/3uuY0m6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png",Kairali Arabia
 https://itvorigin.multitvsolution.com/idvo/kairaliarabia_360p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png",Kairali We 
@@ -19,7 +19,7 @@ http://103.199.161.254/Content/we/Live/Channel(We)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
 https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w79406521.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png",Jaihind TV
-http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+http://cdn.asianetmobiletvplus.com:80/channels/jaihindtv_zyawlevutjmgcqjuvdllxdrnbpfwegxs/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
 https://streaming37.worldbbtv.com/hls/darshana.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV
@@ -79,7 +79,7 @@ https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3
 #EXTINF:-1 tvg-logo="https://imgur.com/download/MeMq0G1/" group-title="NEWS",Media One
 https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="NEWS",24 News
-http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+https://bit.ly/3dX39Ng
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS",Manorama News
 https://bcovlive-a.akamaihd.net/4850ad1bd94445bfb4fa94732383dead/ap-southeast-1/5574321162001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZY1kzi9.png" group-title="NEWS",Mathrubhumi News
@@ -131,9 +131,11 @@ http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/59
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/60
 #EXTINF:-1 tvg-logo="https://imgur.com/download/LWwk39X/" group-title="SPORTS",Sony Six
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/62
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/379954.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rWVNyUo/" group-title="SPORTS",Ten Sports
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/223
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL" group-title="SPORTS",SKYSPORT CRICKET HD
+http://212.8.253.172:2052/SS-CricketHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793869
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="RELIGION",Makkah TV	
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/download/DicUHEn/"group-title="RELIGION",Quran
