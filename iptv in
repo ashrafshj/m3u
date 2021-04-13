@@ -138,7 +138,7 @@ http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/60
 https://bit.ly/2NOCoBm
 #EXTINF:-1 tvg-logo="https://imgur.com/download/rWVNyUo/" group-title="SPORTS",Ten Sports
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/223
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL" group-title="SPORTS",SKYSPORT CRICKET HD
+#EXTINF:0 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png" group-title="SPORTS",Sky Sports Cricket
 http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/5601
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="RELIGION",Makkah TV	
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
