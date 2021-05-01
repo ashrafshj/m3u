@@ -19,15 +19,15 @@ https://bit.ly/3a3BkBx
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
 http://cloud.logicwebs.in:1935/ubl/ublchannel/chunklist_w875749225.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png",Jaihind TV
-http://tamilcuisine.online/api/dialogtv/dialog.php?uid=iltehabjugnoo786&id=126928
+http://tamilcuisine.online/api/dialogtv/dialog.php?uid=iltehabjugnoo786&id=126928&e=m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
 https://streaming37.worldbbtv.com/hls/darshana.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV
 https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eXLxXbh/", Middle East
-http://tamilcuisine.online/api/dialogtv/dialog.php?uid=iltehabjugnoo786&id=126906
+http://tamilcuisine.online/api/dialogtv/dialog.php?uid=iltehabjugnoo786&id=126906&e=m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mazhavil_manorama.jpg",Mazhavil International
-http://tamilcuisine.online/api/dialogtv/dialog.php?uid=iltehabjugnoo786&id=126910
+http://tamilcuisine.online/api/dialogtv/dialog.php?uid=iltehabjugnoo786&id=126910&e=m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD UK
 https://bit.ly/3fDA0co
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UBZg9Yl.png",ACV
@@ -45,7 +45,7 @@ https://live.wmncdn.net/victers/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ukchGM.png",Kaumudy TV
 https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w881DVW.png",Safari
-http://tamilcuisine.online/api/dialogtv/dialog.php?uid=iltehabjugnoo786&id=126937
+http://tamilcuisine.online/api/dialogtv/dialog.php?uid=iltehabjugnoo786&id=126937&e=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1rlU4J.png",DD Malayalam
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-ddmalayalam
 #EXTINF:-1 tvg-logo="https://imgur.com/download/pFcAsl5/",KCL
