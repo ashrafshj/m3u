@@ -19,17 +19,17 @@ https://bit.ly/3a3BkBx
 #EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/",UBL TV
 http://cloud.logicwebs.in:1935/ubl/ublchannel/chunklist_w875749225.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png",Jaihind TV
-http://test.satlok.club:80/live/Amigo/do92Rd6x8yr3/56431.ts
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56431
 #EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/",Darshana TV
 https://streaming37.worldbbtv.com/hls/darshana.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV
 https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/eXLxXbh/", Middle East
-http://tamilcuisine.online/api/dialogtv/dialog.php?uid=iltehabjugnoo786&id=126906&e=m3u8
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56428
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mazhavil_manorama.jpg",Mazhavil International
 http://tamilcuisine.online/api/dialogtv/dialog.php?uid=iltehabjugnoo786&id=126910&e=m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/",Surya TV HD UK
-https://bit.ly/3fDA0co
+https://bit.ly/3ucIpHv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UBZg9Yl.png",ACV
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
@@ -83,7 +83,7 @@ https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3
 #EXTINF:-1 tvg-logo="https://imgur.com/download/MeMq0G1/" group-title="NEWS",Media One
 https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="NEWS",24 News
-http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+https://is.gd/24newslock17
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="NEWS",Manorama News
 https://bcovlive-a.akamaihd.net/4850ad1bd94445bfb4fa94732383dead/ap-southeast-1/5574321162001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZY1kzi9.png" group-title="NEWS",Mathrubhumi News
@@ -94,6 +94,8 @@ https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8
 https://m-c010-j2apps.s.llnwi.net/hls/7082.RealNewskerela.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0OxL0P.png" group-title="NEWS",Mangalam TV 
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/download/HUYqN0f/" group-title="NEWS",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS",BBC News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 
@@ -129,7 +131,7 @@ https://bit.ly/39XjjVy
 #EXTINF:-1 tvg-logo="https://imgur.com/download/jEqy2TT/" group-title="SPORTS",Star Sports 1 
 http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/18807
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ashrafshj/IPTV-2/master/IPTVJson/logo/starsports2.png" group-title="SPORTS",Star Sports 2
-http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+https://is.gd/sports217
 #EXTINF:-1 tvg-logo="https://imgur.com/download/J9UGMjo/" group-title="SPORTS",Sony Ten 1
 http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/10168
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",Sony Ten 2
@@ -142,5 +144,5 @@ http://42.201.228.226:8678/TENSPORT_EBRAVO_TV/tracks-v1a1/mono.m3u8
 http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/5601
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="RELIGION",Makkah TV	
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-logo="https://imgur.com/download/DicUHEn/"group-title="RELIGION",Eman
-https://cdn5.iqsat.net/iq/70cf8d50aaeb4efcd04a42de2762bf3b.sdp/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/download/DicUHEn/"group-title="RELIGION",Huda TV
+https://1392025517.rsc.cdn77.org/1392025517/tracks-v3a1/mono.m3u8
